@@ -1,0 +1,27 @@
+@font-face{
+    font-family: 'TrajanPro';
+    src: url(Trajan\ Pro\ Regular.ttf );
+}
+
+h1 {
+    color: green;
+}
+.blue {
+    color: rgb(44, 0, 85);
+}
+
+
+.trajan{
+    font-family: "TrajanPro";
+}
+
+.listBox {
+    font-family: "TrajanPro";
+
+    height: 1000px;
+    width: 500px;
+    padding: 5px;
+    margin: 50px;
+    border: 2px solid black;
+    background-color: rgb(255, 143, 143);
+}
